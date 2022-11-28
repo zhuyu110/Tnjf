@@ -1,0 +1,92 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/regist/newRegist",
+    "pages/login/login",
+    "pages/scan_upload/scan_upload",
+    "components/Calendar",
+    "pages/index/ImportCalendar",
+    "pages/me/me",
+    "pages/shop/shop",
+    "pages/record/integral_record",
+    "pages/regist/regist_vip",
+    "pages/address/address",
+    "pages/address/addAddress",
+    "pages/address/newAddAddress",
+    "pages/record/shop_record",
+    "pages/location/search",
+    "pages/location/select",
+    "pages/news/news"
+  ],
+  "subPackages": [
+    {
+      "root": "pagesB",
+      "pages": [
+        "pages/testMap"
+      ]
+    },
+    {
+      "root": "pagesC",
+      "pages": [
+        "pages/dcpm",
+        "pages/activityTab0",
+        "pages/activityTab1",
+        "pages/activityTab2",
+        "pages/main_activity819",
+        "pages/activity819_bd"
+      ]
+    },
+    {
+      "root": "pagesD",
+      "pages": [
+        "pages/productList",
+        "pages/productDetial"
+      ]
+    },
+    {
+      "root": "pagesDpic",
+      "pages": [
+        "pages/productDetial"
+      ]
+    },
+    {
+      "root": "pagesE",
+      "pages": [
+        "pages/activity",
+        "pages/cj_recordList"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "preloadRule": {
+    "pagesB/pages/testMap": {
+      "network": "all",
+      "packages": [
+        "__APP__"
+      ]
+    }
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "需要您授权使用位置"
+    }
+  },
+  "requiredPrivateInfos": [
+    "getLocation"
+  ],
+  "usingComponents": {
+    "van-button": "/wxcomponents/vant/button/index",
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index",
+    "van-search": "/wxcomponents/vant/search/index",
+    "van-icon": "/wxcomponents/vant/icon/index",
+    "van-field": "/wxcomponents/vant/field/index",
+    "van-loading": "/wxcomponents/vant/loading/index",
+    "van-info": "/wxcomponents/vant/info/index"
+  }
+}

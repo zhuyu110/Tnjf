@@ -1,0 +1,9 @@
+
+.grace-icons{font-size:38rpx;}
+.grace-list-title-text{font-size:32rpx !important;}
+.map-btns{width:160rpx; margin-left:20rpx; flex-shrink:0;}
+.map-btn{width:80rpx;  font-size:50rpx; line-height:60rpx;}
+.map-btn-icon{line-height:55rpx; font-size:38rpx; text-align:center;}
+.map-btn-text{line-height:30rpx; font-size:24rpx; color:#8788A3; margin-top:3px; text-align:center;}
+.icon-tel{font-size:42rpx;}
+

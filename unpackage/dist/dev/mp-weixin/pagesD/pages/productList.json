@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-search": "/GraceUI5/components/gui-search",
+    "gui-product-list": "/GraceUI5/components/gui-product-list"
+  }
+}

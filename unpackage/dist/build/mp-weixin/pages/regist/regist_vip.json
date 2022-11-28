@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "用户注册",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-area-picker": "/GraceUI5/components/gui-area-picker"
+  }
+}

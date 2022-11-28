@@ -1,0 +1,1 @@
+<block wx:if="{{show}}"><view data-ref="guipopupfortopmsg" class="{{['gui-top-message','data-v-1012dbf4','vue-ref',out?'gui-top-message-out':'gui-top-message-in']}}" style="{{'top:'+(navHeight+'px')+';'}}"><slot></slot></view></block>

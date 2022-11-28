@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "财富值赢大奖",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-speaker": "/GraceUI5/components/gui-speaker",
+    "gui-turntable-activity": "/GraceUI5/components/gui-turntable-activity",
+    "gui-popup": "/GraceUI5/components/gui-popup",
+    "gui-modal": "/GraceUI5/components/gui-modal",
+    "gui-action-sheet": "/GraceUI5/components/gui-action-sheet",
+    "tonyscroll": "/pagesE/tony-scroll-self/tony-scroll-self"
+  }
+}

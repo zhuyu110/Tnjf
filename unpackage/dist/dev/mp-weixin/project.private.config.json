@@ -1,0 +1,59 @@
+{
+  "setting": {
+    "compileHotReLoad": true,
+    "urlCheck": false
+  },
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pagesB/pages/testMap",
+          "pathName": "pagesB/pages/testMap",
+          "query": "",
+          "launchMode": "default",
+          "scene": 1011,
+          "partialCompile": {
+            "enabled": true,
+            "pages": []
+          }
+        },
+        {
+          "name": "pagesC/pages/main_activity819",
+          "pathName": "pagesC/pages/main_activity819",
+          "query": "",
+          "launchMode": "default",
+          "scene": 1011,
+          "partialCompile": {
+            "enabled": true,
+            "pages": []
+          }
+        },
+        {
+          "name": "pagesE/pages/activity",
+          "pathName": "pagesE/pages/activity",
+          "query": "",
+          "launchMode": "default",
+          "scene": null,
+          "partialCompile": {
+            "enabled": true,
+            "pages": []
+          }
+        },
+        {
+          "name": "pagesC/pages/dcpm",
+          "pathName": "pagesC/pages/dcpm",
+          "query": "",
+          "launchMode": "default",
+          "scene": null,
+          "partialCompile": {
+            "enabled": true,
+            "pages": []
+          }
+        }
+      ]
+    }
+  },
+  "projectname": "天能积分",
+  "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "libVersion": "2.27.3"
+}

@@ -1,0 +1,7 @@
+
+.gui-idcard-main{margin:25rpx;}
+.gui-idcard-desc{background-color:#FFFFFF; color:#666666; line-height:56rpx; font-size:26rpx; padding:20rpx; border-radius:10rpx;}
+.gui-idcard-text{line-height:1.8em; margin-top:30rpx; color:#666666;}
+.gui-idcard-items{ padding:50rpx; border-radius:10rpx; margin-top:15rpx;}
+.gui-idcard-items-image{width:210rpx;}
+

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "积分记录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-switch-navigation2": "/GraceUI5/components/gui-switch-navigation2"
+  }
+}

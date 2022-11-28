@@ -1,0 +1,14 @@
+
+.gui-top-message.data-v-ba1d9ba8{position:fixed; left:0; top:0; width:750rpx; z-index:900; -webkit-transform:translateY(-200px); transform:translateY(-200px); opacity:0.1;}
+@-webkit-keyframes gui-top-message-in-data-v-ba1d9ba8{0%{-webkit-transform:translateY(-200px);transform:translateY(-200px); opacity:0.1;}
+100%{-webkit-transform:translateY(0px);transform:translateY(0px); opacity:1;}}
+@keyframes gui-top-message-in-data-v-ba1d9ba8{0%{-webkit-transform:translateY(-200px);transform:translateY(-200px); opacity:0.1;}
+100%{-webkit-transform:translateY(0px);transform:translateY(0px); opacity:1;}}
+.gui-top-message-in.data-v-ba1d9ba8{-webkit-animation:gui-top-message-in-data-v-ba1d9ba8 350ms linear forwards;animation:gui-top-message-in-data-v-ba1d9ba8 350ms linear forwards;}
+@-webkit-keyframes gui-top-message-out-data-v-ba1d9ba8{0%{-webkit-transform:translateY(0px);transform:translateY(0px);  opacity:1;}
+100%{-webkit-transform:translateY(-200px);transform:translateY(-200px); opacity:1;}}
+@keyframes gui-top-message-out-data-v-ba1d9ba8{0%{-webkit-transform:translateY(0px);transform:translateY(0px);  opacity:1;}
+100%{-webkit-transform:translateY(-200px);transform:translateY(-200px); opacity:1;}}
+.gui-top-message-out.data-v-ba1d9ba8{-webkit-animation:gui-top-message-out-data-v-ba1d9ba8 350ms linear forwards;animation:gui-top-message-out-data-v-ba1d9ba8 350ms linear forwards;}
+
+

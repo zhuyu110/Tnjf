@@ -1,0 +1,348 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	
+	
+		{
+			"path": "pages/index/index",
+			"style": {
+				 "navigationStyle":"custom",
+				 "enablePullDownRefresh": false
+			}
+		},
+		{
+		    "path" : "pages/regist/newRegist",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle":"custom",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+		    "path" : "pages/login/login",
+		    "style" :                                                                                    
+		    {
+				 "navigationStyle":"custom",
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+		    "path" : "pages/scan_upload/scan_upload",
+		    "style" :                                                                                    
+		    {
+		       "navigationStyle":"custom",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+			"path": "components/Calendar",
+			"style": {
+				"navigationBarTitleText": "签到模板"
+			}
+		},
+		{
+			"path": "pages/index/ImportCalendar",
+			"style": {
+				"navigationBarTitleText": "签到打卡"
+			}
+		},
+		{
+            "path" : "pages/me/me",
+            "style" :                                                                                    
+            {
+                 "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+       
+        ,{
+            "path" : "pages/shop/shop",
+            "style" :                                                                                    
+            {
+                 "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/record/integral_record",
+            "style" :                                                                                    
+            {
+				"navigationBarTitleText": "积分记录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/regist/regist_vip",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "门店信息完善",
+                "enablePullDownRefresh": false
+            }
+            
+        },{
+            "path" : "pages/address/address",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "收货地址",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/address/addAddress",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "添加新地址",
+                "enablePullDownRefresh": false
+            }
+            
+        },{
+            "path" : "pages/address/newAddAddress",
+            "style" :                                                                                    
+            {
+               "navigationStyle":"custom",
+               "enablePullDownRefresh": false
+            }
+            
+        }
+        
+        ,{
+            "path" : "pages/record/shop_record",
+            "style" :                                                                                    
+            {   
+				
+                "navigationBarTitleText": "商品兑换记录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/location/search",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "位置搜索",
+                "enablePullDownRefresh": false
+            }
+            
+        },{
+            "path" : "pages/location/select",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "位置选择",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		
+       
+        ,{
+            "path" : "pages/news/news",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        
+        
+      
+    ],
+	"subPackages":[
+		{
+		"root":"pagesB",
+		"pages":[{
+			"path":"pages/testMap",
+			"style" :
+				{
+					"navigationBarTitleText": "扫电池码·抽红包",
+					"enablePullDownRefresh": false
+				}  
+			}
+					
+            ]
+	},
+	{
+		"root":"pagesC",
+		"pages":[
+			{
+	                "path" : "pages/dcpm",
+	                "style" :                                                                                    
+	            {
+	                "navigationStyle":"custom",
+	                "enablePullDownRefresh": false
+	            }
+	            
+	            }
+	            ,{
+	                "path" : "pages/activityTab0",
+	                "style" :                                                                                    
+	            {
+	                "navigationBarTitleText": "",
+	                "enablePullDownRefresh": false
+	            }
+	            
+	            },
+				{
+				    "path" : "pages/activityTab1",
+				    "style" :                                                                                    
+				{
+				    "navigationBarTitleText": "",
+				    "enablePullDownRefresh": false
+				}
+				
+				},
+				{
+				    "path" : "pages/activityTab2",
+				    "style" :                                                                                    
+				{
+				    "navigationBarTitleText": "",
+				    "enablePullDownRefresh": false
+				}
+				
+				},
+				{
+                    "path" : "pages/main_activity819",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                },
+				{
+				    "path" : "pages/activity819_bd",
+				    "style" :                                                                                    
+				{
+				    "navigationBarTitleText": "",
+				    "enablePullDownRefresh": false
+				}
+				
+				}
+	        ]
+	},{
+		"root":"pagesD",
+		"pages":[
+	            {
+	                "path" : "pages/productList",
+	                "style" :                                                                                    
+	            {
+	                "navigationBarTitleText": "",
+	                "enablePullDownRefresh": false
+	            }
+	            
+	            },{
+                    "path" : "pages/productDetial",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+	            		
+            ]
+	},{
+		"root":"pagesDpic",
+		"pages":[{
+                    "path" : "pages/productDetial",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+            ]
+	},
+	{
+		"root":"pagesE",
+		"pages":[{
+	                "path" : "pages/activity",
+	                "style" :                                                                                    
+	            {
+	                "navigationBarTitleText": "财富值赢大奖",
+	                "enablePullDownRefresh": false
+	            }
+	            
+	            }
+	            ,{
+                    "path" : "pages/cj_recordList",
+                    "style":                                                                                    
+					{
+						"navigationBarTitleText": "抽奖记录",
+						"enablePullDownRefresh": false
+					}
+                
+                }
+            ]
+	}
+	],
+	"preloadRule":{
+		"pagesB/pages/testMap":{
+			"network":"all",
+			"packages":["__APP__"]
+		}
+		
+		
+	},
+	
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"usingComponents": {
+			"van-button": "/wxcomponents/vant/button/index",
+			"van-cell": "/wxcomponents/vant/cell/index",
+			"van-cell-group": "/wxcomponents/vant/cell-group/index",
+			"van-search": "/wxcomponents/vant/search/index",
+			"van-icon": "/wxcomponents/vant/icon/index",
+			"van-field": "/wxcomponents/vant/field/index",
+			"van-loading": "/wxcomponents/vant/loading/index",
+			"van-info": "/wxcomponents/vant/info/index"
+		}
+	},
+	/* "tabBar":{
+		"color":"#8a8a8a",
+		"selectedColor":"#FF0000",
+		"borderStyle":"black",
+		"backgroundColor":"#FFFFFF",
+		"list":[{
+			"pagePath":"pages/index/index",
+			"text":"首页",
+			"iconPath":"static/tabbar_imgs/ic_home.png",
+			"selectedIconPath":"./static/tabbar_imgs/ic_home_sel.png"
+		} ,  {
+				"pagePath":"pages/shop/shop",
+				"text":"商城",
+				"iconPath":"static/tabbar_imgs/ic_jifen.png",
+				"selectedIconPath":"static/tabbar_imgs/ic_jifen_sel.png"
+			}
+			,
+			 {
+				"pagePath":"pages/me/me",
+				"text":"我的",
+				"iconPath":"static/tabbar_imgs/ic_user.png",
+				"selectedIconPath":"static/tabbar_imgs/ic_user_sel.png"
+			}
+			
+			]
+		
+		
+	}, */
+	"easycom": {
+		"custom": {
+			"autoscan": true,
+			"gal-(.*)": "@/GAL/components/gal-$1.vue",
+			"gui-(.*)": "@/GraceUI5/components/gui-$1.vue"
+			
+		}
+	}
+}

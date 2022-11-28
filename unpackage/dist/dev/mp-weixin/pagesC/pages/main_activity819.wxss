@@ -1,0 +1,22 @@
+
+.demo-close{width:100rpx; height:100rpx; line-height:100rpx; opacity:0.88; text-align:center; font-size:58rpx;}
+.progress-box {
+		display: flex;
+		height: 50rpx;
+		margin-bottom: 60rpx;
+}
+.modal-btns{line-height:88rpx; font-size:26rpx; text-align:center; width:200rpx;}
+.gui-lucky-turntable-btn{width:110rpx; height:110rpx; position:absolute; left: 70rpx;top: 20rpx; z-index:9;}
+.pendant{width:88rpx; height:88rpx; border-radius:88rpx; text-align:center; line-height:88rpx; font-size:55rpx;}
+.location-icon {
+    width: 64rpx;
+    height: 64rpx;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+}
+.ic_img{line-height:100rpx;text-align:center; height: 100rpx;border-radius: 60rpx;width: 100rpx;}
+.ic_img_f{line-height:100rpx;text-align:center; height: 100rpx;border-radius: 0rpx;width: 100rpx;}
+

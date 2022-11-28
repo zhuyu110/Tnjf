@@ -1,0 +1,9 @@
+
+.progress-box {
+			display: flex;
+			height: 50rpx;
+			margin-bottom: 60rpx;
+}
+.ic_img{line-height:70rpx;text-align:center; height: 70rpx;border-radius: 40rpx;width: 70rpx;}
+.pendant{width:88rpx; height:88rpx; border-radius:88rpx; text-align:center; line-height:88rpx; font-size:55rpx;}
+

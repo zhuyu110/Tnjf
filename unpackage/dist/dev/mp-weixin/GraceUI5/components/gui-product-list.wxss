@@ -1,0 +1,6 @@
+
+.gui-product{margin-bottom:38rpx;}
+.gui-product-lines{margin-top:10rpx;}
+.gui-product-name{font-size:26rpx; line-height:32rpx;}
+.gui-price-margin{margin:0 10rpx;}
+

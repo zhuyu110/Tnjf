@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-scrollitems-y": "/GraceUI5/components/gui-scrollitems-y"
+  }
+}

@@ -1,0 +1,50 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/login/login",
+        "pages/scan_upload/scan_upload",
+        "pages/me/me",
+        "pages/shop/shop",
+        "pages/record/integral_record",
+        "pages/regist/regist_vip",
+        "pages/address/address",
+        "pages/address/addAddress",
+        "pages/record/shop_record"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "uni-app",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8"
+    },
+    "tabBar": {
+        "color": "#8a8a8a",
+        "selectedColor": "#FF0000",
+        "borderStyle": "black",
+        "backgroundColor": "#FFFFFF",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "text": "首页",
+                "iconPath": "static/tabbar_imgs/ic_home.png",
+                "selectedIconPath": "./static/tabbar_imgs/ic_home_sel.png"
+            },
+            {
+                "pagePath": "pages/shop/shop",
+                "text": "商城",
+                "iconPath": "static/tabbar_imgs/ic_jifen.png",
+                "selectedIconPath": "static/tabbar_imgs/ic_jifen_sel.png"
+            },
+            {
+                "pagePath": "pages/me/me",
+                "text": "我的",
+                "iconPath": "static/tabbar_imgs/ic_user.png",
+                "selectedIconPath": "static/tabbar_imgs/ic_user_sel.png"
+            }
+        ]
+    },
+    "permission": {},
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}

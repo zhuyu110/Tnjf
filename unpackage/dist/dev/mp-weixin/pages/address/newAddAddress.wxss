@@ -1,0 +1,6 @@
+
+.gui-border-b{padding-top:15rpx;}
+.demo{padding:10rpx 0; height:2000px;}
+.ic_img{line-height:140rpx;text-align:center; height: 140rpx;border-radius: 90rpx;width: 140rpx;}
+.ic_vip_img{height: 40rpx; width: 40rpx;}
+

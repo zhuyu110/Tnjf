@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-header-leading": "/GraceUI5/components/gui-header-leading",
+    "gui-area-picker": "/GraceUI5/components/gui-area-picker"
+  }
+}

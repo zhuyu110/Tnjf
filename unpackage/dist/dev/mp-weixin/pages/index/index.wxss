@@ -1,0 +1,202 @@
+/* 黑色 */
+.gui-color-black.data-v-57280228{color:#000000;}
+.gui-bg-black.data-v-57280228{background-color:#000000;}
+.gui-color-black1.data-v-57280228{color:#212121;}
+.gui-bg-black1.data-v-57280228{background-color:#212121;}
+.gui-color-black2.data-v-57280228{color:#303030;}
+.gui-bg-black2.data-v-57280228{background-color:#303030;}
+.gui-color-black3.data-v-57280228{color:#424242;}
+.gui-bg-black3.data-v-57280228{background-color:#424242;}
+/* 灰色 */
+.gui-color-grey.data-v-57280228{color:#616161;}
+.gui-bg-grey.data-v-57280228{background-color:#616161;}
+.gui-color-grey1.data-v-57280228{color:#757575;}
+.gui-bg-grey1.data-v-57280228{background-color:#757575;}
+.gui-color-grey2.data-v-57280228{color:#9E9E9E;}
+.gui-bg-grey2.data-v-57280228{background-color:#9E9E9E;}
+.gui-color-grey3.data-v-57280228{color:#BDBDBD;}
+.gui-bg-grey3.data-v-57280228{background-color:#BDBDBD;}
+.gui-color-grey4.data-v-57280228{color:#D6D6D6;}
+.gui-bg-grey4.data-v-57280228{background-color:#D6D6D6;}
+.gui-color-grey5.data-v-57280228{color:#E0E0E0;}
+.gui-bg-grey5.data-v-57280228{background-color:#E0E0E0;}
+.gui-color-grey5.data-v-57280228{color:#EEEEEE;}
+.gui-bg-grey5.data-v-57280228{background-color:#EEEEEE;}
+.gui-color-grey6.data-v-57280228{color:#F5F5F5;}
+.gui-bg-grey6.data-v-57280228{background-color:#F5F5F5;}
+.gui-color-grey7.data-v-57280228{color:#FAFAFA;}
+.gui-bg-grey7.data-v-57280228{background-color:#FAFAFA;}
+/* 红色 */
+.gui-color-red.data-v-57280228{color:#FF0000;}
+.gui-bg-red.data-v-57280228{background-color:#FF0000;}
+.gui-color-red1.data-v-57280228{color:#FF0036;}
+.gui-bg-red1.data-v-57280228{background-color:#FF0036;}
+.gui-color-red2.data-v-57280228{color:#F44336;}
+.gui-bg-red2.data-v-57280228{background-color:#F44336;}
+.gui-color-red3.data-v-57280228{color:#EF5350;}
+.gui-bg-red3.data-v-57280228{background-color:#FC5350;}
+.gui-bg-red4.data-v-57280228{background-color:#ff000080;}
+/* 粉色 */
+.gui-color-pink.data-v-57280228{color:#E91E63;}
+.gui-bg-pink.data-v-57280228{background-color:#E91E63;}
+.gui-color-pink1.data-v-57280228{color:#FF5081;}
+.gui-bg-pink1.data-v-57280228{background-color:#FF5081;}
+.gui-color-pink2.data-v-57280228{color:#F58FB1;}
+.gui-bg-pink2.data-v-57280228{background-color:#F58FB1;}
+.gui-color-pink3.data-v-57280228{color:#FCE4EC;}
+.gui-bg-pink3.data-v-57280228{background-color:#FCE4EC;}
+/* 橙色 */
+.gui-color-orange.data-v-57280228{color:#FF3D00;}
+.gui-bg-orange.data-v-57280228{background-color:#FF3D00;}
+.gui-color-orange1.data-v-57280228{color:#FF6E40;}
+.gui-bg-orange1.data-v-57280228{background-color:#FF6E40;}
+.gui-color-orange2.data-v-57280228{color:#FFAB91;}
+.gui-bg-orange2.data-v-57280228{background-color:#FFAB91;}
+.gui-color-orange3.data-v-57280228{color:#FFCCBC;}
+.gui-bg-orange3.data-v-57280228{background-color:#FFCCBC;}
+/* 黄色 */
+.gui-color-yellow.data-v-57280228{color:#FFFF00;}
+.gui-bg-yellow.data-v-57280228{background-color:#FFFF00;}
+.gui-color-yellow1.data-v-57280228{color:#FFEB3B;}
+.gui-bg-yellow1.data-v-57280228{background-color:#FFEB3B;}
+.gui-color-yellow2.data-v-57280228{color:#FFEE58;}
+.gui-bg-yellow2.data-v-57280228{background-color:#FFEE58;}
+.gui-color-yellow3.data-v-57280228{color:#FFF9C5;}
+.gui-bg-yellow3.data-v-57280228{background-color:#FFF9C5;}
+/* 绿色 */
+.gui-color-green.data-v-57280228{color:#00FF00;}
+.gui-bg-green.data-v-57280228{background-color:#00FF00;}
+.gui-color-green1.data-v-57280228{color:#4CAF50;}
+.gui-bg-green1.data-v-57280228{background-color:#4CAF50;}
+.gui-color-green2.data-v-57280228{color:#66BB6A;}
+.gui-bg-green2.data-v-57280228{background-color:#66BB6A;}
+.gui-color-green3.data-v-57280228{color:#81C785;}
+.gui-bg-green3.data-v-57280228{background-color:#81C785;}
+.gui-color-green4.data-v-57280228{color:#A5D6A7;}
+.gui-bg-green4.data-v-57280228{background-color:#A5D6A7;}
+.gui-color-green4.data-v-57280228{color:#C8E6C9;}
+.gui-bg-green4.data-v-57280228{background-color:#C8E6C9;}
+.gui-color-green5.data-v-57280228{color:#E8F5E9;}
+.gui-bg-green5.data-v-57280228{background-color:#E8F5E9;}
+.gui-color-green5.data-v-57280228{color:#76FF03;}
+.gui-bg-green5.data-v-57280228{background-color:#76FF03;}
+.gui-color-green6.data-v-57280228{color:#9CCC65;}
+.gui-bg-green6.data-v-57280228{background-color:#9CCC65;}
+.gui-color-green7.data-v-57280228{color:#F1F8E9;}
+.gui-bg-green7.data-v-57280228{background-color:#F1F8E9;}
+/* 水鸭色 */
+.gui-color-teal.data-v-57280228{color:#00796B;}
+.gui-bg-teal.data-v-57280228{background-color:#00796B;}
+.gui-color-teal1.data-v-57280228{color:#00897B;}
+.gui-bg-teal1.data-v-57280228{background-color:#00897B;}
+.gui-color-teal2.data-v-57280228{color:#26A69A;}
+.gui-bg-teal2.data-v-57280228{background-color:#26A69A;}
+.gui-color-teal3.data-v-57280228{color:#B2DFDB;}
+.gui-bg-teal3.data-v-57280228{background-color:#B2DFDB;}
+/* 蓝色 */
+.gui-color-blue.data-v-57280228{color:#1565C0;}
+.gui-bg-blue.data-v-57280228{background-color:#1565C0;}
+.gui-color-blue1.data-v-57280228{color:#3688FF;}
+.gui-bg-blue1.data-v-57280228{background-color:#3688FF;}
+.gui-color-blue2.data-v-57280228{color:#1E88E5;}
+.gui-bg-blue2.data-v-57280228{background-color:#1E88E5;}
+.gui-color-blue3.data-v-57280228{color:#2196F3;}
+.gui-bg-blue3.data-v-57280228{background-color:#2196F3;}
+.gui-color-blue4.data-v-57280228{color:#42A5F5;}
+.gui-bg-blue4.data-v-57280228{background-color:#42A5F5;}
+.gui-color-blue5.data-v-57280228{color:#90CAF9;}
+.gui-bg-blue5.data-v-57280228{background-color:#90CAF9;}
+.gui-color-blue6.data-v-57280228{color:#BBDEFB;}
+.gui-bg-blue6.data-v-57280228{background-color:#BBDEFB;}
+.gui-color-blue7.data-v-57280228{color:#E3F2FD;}
+.gui-bg-blue7.data-v-57280228{background-color:#E3F2FD;}
+/* 蓝灰 */
+.gui-color-bluegrey.data-v-57280228{color:#455A64;}
+.gui-bg-bluegrey.data-v-57280228{background-color:#455A64;}
+.gui-color-bluegrey1.data-v-57280228{color:#546E7A;}
+.gui-bg-bluegrey1.data-v-57280228{background-color:#546E7A;}
+.gui-color-bluegrey2.data-v-57280228{color:#607D8B;}
+.gui-bg-bluegrey2.data-v-57280228{background-color:#607D8B;}
+.gui-color-bluegrey3.data-v-57280228{color:#78909C;}
+.gui-bg-bluegrey3.data-v-57280228{background-color:#78909C;}
+.gui-color-bluegrey4.data-v-57280228{color:#90A4Ae;}
+.gui-bg-bluegrey4.data-v-57280228{background-color:#90A4Ae;}
+.gui-color-bluegrey5.data-v-57280228{color:#B0BEC5;}
+.gui-bg-bluegrey5.data-v-57280228{background-color:#B0BEC5;}
+.gui-color-bluegrey6.data-v-57280228{color:#CFD8DC;}
+.gui-bg-bluegrey6.data-v-57280228{background-color:#CFD8DC;}
+.gui-color-bluegrey6.data-v-57280228{color:#ECEFF1;}
+.gui-bg-bluegrey6.data-v-57280228{background-color:#ECEFF1;}
+/* 青色 */
+.gui-color-cyan.data-v-57280228{color:#006065;}
+.gui-bg-cyan.data-v-57280228{background-color:#006065;}
+.gui-color-cyan1.data-v-57280228{color:#0097A7;}
+.gui-bg-cyan1.data-v-57280228{background-color:#0097A7;}
+.gui-color-cyan2.data-v-57280228{color:#80DEEA;}
+.gui-bg-cyan2.data-v-57280228{background-color:#80DEEA;}
+.gui-color-cyan3.data-v-57280228{color:#E0F7FA;}
+.gui-bg-cyan3.data-v-57280228{background-color:#E0F7FA;}
+/* 紫色 */
+.gui-color-purple.data-v-57280228{color:#9C27B0;}
+.gui-bg-purple.data-v-57280228{background-color:#9C27B0;}
+.gui-color-purple1.data-v-57280228{color:#E040FB;}
+.gui-bg-purple1.data-v-57280228{background-color:#E040FB;}
+.gui-color-purple2.data-v-57280228{color:#E1BEE7;}
+.gui-bg-purple2.data-v-57280228{background-color:#E1BEE7;}
+.gui-color-purple3.data-v-57280228{color:#F3E5F5;}
+.gui-bg-purple3.data-v-57280228{background-color:#F3E5F5;}
+/* 棕色 */
+.gui-color-brown.data-v-57280228{color:#5D4037;}
+.gui-bg-brown.data-v-57280228{background-color:#5D4037;}
+.gui-color-brown1.data-v-57280228{color:#795558;}
+.gui-bg-brown1.data-v-57280228{background-color:#795558;}
+.gui-color-brown2.data-v-57280228{color:#8D6E63;}
+.gui-bg-brown2.data-v-57280228{background-color:#8D6E63;}
+.gui-color-brown3.data-v-57280228{color:#D7CCC8;}
+.gui-bg-brown3.data-v-57280228{background-color:#D7CCC8;}
+.gui-lucky-turntable-btn.data-v-57280228{width:110rpx; height:110rpx; position:absolute; left: 70rpx;top: 20rpx; z-index:9;}
+.border_head.data-v-57280228{height:300rpx ; width: 650rpx; border-radius: 30rpx; margin-top: -120rpx;margin-left: 50rpx; position:absolute}
+.border_head_item1.data-v-57280228{width: 650rpx;height: 100rpx;}
+.border_head_item2.data-v-57280228{width: 650rpx;height: 200rpx;position: relative;}
+.ic_img.data-v-57280228{line-height:140rpx;text-align:center; height: 140rpx;border-radius: 90rpx;width: 140rpx;}
+.ic_vip_img.data-v-57280228{height: 40rpx; width: 40rpx;}
+.item_title.data-v-57280228{ width:650rpx;height: 60rpx;}
+.ic_title.data-v-57280228{width: 40rpx; height: 40rpx;}
+.border_item.data-v-57280228{height:240rpx ; width: 660rpx; border-radius: 20rpx; margin-top: 10rpx;margin-left: 44rpx;}
+.border_item_zixun.data-v-57280228{height:140rpx ; width: 320rpx; border-radius: 20rpx; margin-top: 10rpx; position: relative;}
+.item_vip.data-v-57280228{height:140rpx ; width: 320rpx;line-height: 60rpx;border-radius: 20rpx;z-index: 9;position: absolute;}
+.modal-btns.data-v-57280228{line-height:88rpx; font-size:35rpx; text-align:center; width:200rpx;}
+.pendant.data-v-57280228{width:88rpx; height:88rpx; border-radius:88rpx; text-align:center; line-height:88rpx; font-size:55rpx;}
+.avatar-wrapper.data-v-57280228 {
+  padding: 0;
+  width: 56px !important;
+  border-radius: 8px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  background-color: #fff;
+}
+.avatar.data-v-57280228 {
+  display: block;
+  width: 56px;
+  height: 56px;
+}
+.container.data-v-57280228 {
+  display: flex;
+}
+.row.data-v-57280228{
+   border-top: 1px solid #ccc;
+   border-bottom: 1px solid #ccc;
+   display: flex;
+   align-items: center;
+   height: 80rpx;
+   padding-left: 20rpx;
+}
+.text1.data-v-57280228{
+    flex: 2;
+}
+.weui-input.data-v-57280228{
+    flex: 6;
+}
+
+
+

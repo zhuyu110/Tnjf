@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "抽奖记录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-tags": "/GraceUI5/components/gui-tags"
+  }
+}
